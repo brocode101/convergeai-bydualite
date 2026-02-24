@@ -1,1 +1,1 @@
-# convergeai-bydualite
+# ai-based-template
